@@ -1,0 +1,4 @@
+2026/03/18	07:04:05	acc066a3-99bc-43e7-a40a-d7dfe38d1e82	/	GET
+2026/03/18	07:04:05	1d460c1a-88af-417f-9330-80b01adaa655	/.well-known/appspecific/com.chrome.devtools.json	GET
+2026/03/18	07:04:05	3fb39a81-b477-41c0-a7d9-476ba1bdeece	/css/style.css	GET
+2026/03/18	07:04:05	0eb3b7e4-53ad-472d-be68-5329ff476432	/index.js	GET
